@@ -1,0 +1,21 @@
+{
+  "name": "gregorytallen",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gtallen1187/gregorytallen",
+  "authors": [
+    "Greg Allen <gtallen1187@gmail.com>"
+  ],
+  "description": "resume site",
+  "main": "config.json",
+  "keywords": [
+    "greg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
